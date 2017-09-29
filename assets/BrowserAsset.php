@@ -13,7 +13,7 @@ class BrowserAsset extends \yii\web\AssetBundle {
     /**
      * @inheritdoc
      */
-    public $sourcePath = '@bower/jquery.browser/dist';
+    public $sourcePath = '@bower/jquery.browser';
 
     /**
      * @inheritdoc
