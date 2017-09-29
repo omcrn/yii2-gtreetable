@@ -15,7 +15,7 @@ class Asset extends \yii\web\AssetBundle {
     /**
      * @inheritdoc
      */
-    public $sourcePath = '@bower/bootstrap-gtreetable/dist';
+    public $sourcePath = '@bower/om-bootstrap-gtreetable/dist';
 
     /**
      * @inheritdoc
